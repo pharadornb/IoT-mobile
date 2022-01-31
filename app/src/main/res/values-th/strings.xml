@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">B6134228</string>
+    <string name="temp" translatable="false">ไม่ทราบค่าอุณหภูมิ</string>
+    <string name="hump" translatable="false">ไม่ทราบค่าความชื้น</string>
+    <string name="light1" translatable="false">ไฟดวงที่ 1</string>
+    <string name="light2" translatable="false">ไฟดวงที่ 2</string>
+    <string name="toast_on_light1" translatable="false">เปิด ไฟดวงที่ 1</string>
+    <string name="toast_on_light2" translatable="false">เปิด ไฟดวงที่ 2</string>
+    <string name="toast_off_light1" translatable="false">ปิด ไฟดวงที่ 1</string>
+    <string name="toast_off_light2" translatable="false">ปิด ไฟดวงที่ 2</string>
+</resources>

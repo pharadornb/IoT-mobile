@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">B6134228</string>
+    <string name="app_name" translatable="false">B6134228</string>
+    <string name="temp" translatable="false">Temperature is N/A Celcius</string>
+    <string name="hump" translatable="false">Humidity is N/A Percent</string>
+    <string name="light1" translatable="false">Light 1</string>
+    <string name="light2" translatable="false">Light 2</string>
+    <string name="toast_on_light1" translatable="false">On Light 1</string>
+    <string name="toast_on_light2" translatable="false">On Light 2</string>
+    <string name="toast_off_light1" translatable="false">Off Light 1</string>
+    <string name="toast_off_light2" translatable="false">Off Light 2</string>
 </resources>
